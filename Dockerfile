@@ -4,3 +4,4 @@ ARG version=1
 
 ENV VERSION $version
 
+CMD echo $VERSION 
